@@ -783,12 +783,16 @@ nav ul li a:hover{
 }
 
 .last22{
-    margin-top: 16px;
+    /* margin-top: 16px; */
     display: flex;
     justify-content: end;
     padding-right: 0%;
     padding-bottom: 1px;
-    padding-top: 5px;
+    /* padding-top: 5px; */
+}
+
+.last22 a{
+    color: black;
 }
 
 .tnc{
